@@ -2,7 +2,6 @@
 **/__pycache__/
 .DS_Store
 
-.env
 .next/
 temp-data/
 swarm.pem
@@ -25,8 +24,5 @@ MODULE.bazel.lock
 .tmux.conf
 
 user/
-
-configs/
-genrl-swarm/
 
 result
